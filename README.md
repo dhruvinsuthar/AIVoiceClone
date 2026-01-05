@@ -61,7 +61,7 @@ This AI Voice Cloning Studio is a powerful tool that leverages state-of-the-art 
 **Translation:**
 > Hello friends, how are you all? I have created an AI voice cloner that mimics your voice based on a few seconds of your audio sample. The audio you are listening to is of Om Puri.
 
-**Output:** 🔊 **[Click here to play ompuri1.wav](outputs/ompuri1.wav)**
+**Output:** 🔊 **[Click here to play ompuri1.mp3](outputs/ompuri1.mp3)**
 
 **Metrics:**
 - Duration: ~20 seconds
@@ -78,7 +78,7 @@ This AI Voice Cloning Studio is a powerful tool that leverages state-of-the-art 
 **Translation:**
 > In big countries, such small things keep happening, senorita (Famous dialogue from "Dilwale Dulhania Le Jayenge")
 
-**Output:** 🔊 **[Click here to play ompuri2.wav](outputs/ompuri2.wav)**
+**Output:** 🔊 **[Click here to play ompuri2.mp3](outputs/ompuri2.mp3)**
 
 **Metrics:**
 - Duration: ~5 seconds
