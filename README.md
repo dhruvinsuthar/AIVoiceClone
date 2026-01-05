@@ -51,6 +51,8 @@ This AI Voice Cloning Studio is a powerful tool that leverages state-of-the-art 
 
 ### Demo Output Samples
 
+> **Note:** Audio files have been converted from WAV to MP3 format for better browser playback compatibility.
+
 #### Sample 1: Om Puri Voice Clone
 
 **Script (Hindi):**
