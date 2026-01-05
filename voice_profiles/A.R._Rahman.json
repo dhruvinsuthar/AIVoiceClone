@@ -1,0 +1,8 @@
+{
+  "name": "A.R. Rahman",
+  "duration": 30.0,
+  "sample_rate": 16000,
+  "speaker_id": "id10002",
+  "source": "VoxCeleb Indian Dataset",
+  "num_samples": 91
+}

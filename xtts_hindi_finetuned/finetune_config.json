@@ -1,0 +1,10 @@
+{
+  "run_name": "xtts_indian_finetune",
+  "model": "xtts",
+  "num_epochs": 10,
+  "batch_size": 2,
+  "output_path": "xtts_hindi_finetuned",
+  "dataset_path": "xtts_indian_dataset",
+  "language": "hi",
+  "use_cuda": true
+}

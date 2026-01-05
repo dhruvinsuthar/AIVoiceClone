@@ -1,0 +1,8 @@
+{
+  "name": "Tabu",
+  "duration": 29.9999375,
+  "sample_rate": 16000,
+  "speaker_id": "id11136",
+  "source": "VoxCeleb Indian Dataset",
+  "num_samples": 55
+}

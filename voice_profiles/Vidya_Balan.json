@@ -1,0 +1,8 @@
+{
+  "name": "Vidya Balan",
+  "duration": 30.0,
+  "sample_rate": 16000,
+  "speaker_id": "id11209",
+  "source": "VoxCeleb Indian Dataset",
+  "num_samples": 356
+}

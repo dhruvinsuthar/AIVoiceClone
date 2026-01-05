@@ -1,0 +1,8 @@
+{
+  "name": "Kangana Ranaut",
+  "duration": 30.0,
+  "sample_rate": 16000,
+  "speaker_id": "id10583",
+  "source": "VoxCeleb Indian Dataset",
+  "num_samples": 308
+}

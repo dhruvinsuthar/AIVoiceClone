@@ -1,0 +1,8 @@
+{
+  "name": "John Abraham",
+  "duration": 30.0,
+  "sample_rate": 16000,
+  "speaker_id": "id10519",
+  "source": "VoxCeleb Indian Dataset",
+  "num_samples": 89
+}

@@ -1,0 +1,40 @@
+{
+  "model": "xtts",
+  "run_name": "xtts_indian_finetune",
+  "project_name": "XTTS_Indian_Celebrities",
+  "audio": {
+    "sample_rate": 22050,
+    "output_sample_rate": 24000
+  },
+  "batch_size": 2,
+  "eval_batch_size": 2,
+  "num_loader_workers": 2,
+  "num_eval_loader_workers": 1,
+  "epochs": 5,
+  "print_step": 50,
+  "save_step": 1000,
+  "save_n_checkpoints": 2,
+  "save_checkpoints": true,
+  "save_best_after": 5000,
+  "mixed_precision": false,
+  "output_path": "xtts_hindi_finetuned",
+  "datasets": [
+    {
+      "name": "vox_indian",
+      "path": "xtts_indian_dataset",
+      "meta_file_train": "metadata.csv",
+      "language": "hi"
+    }
+  ],
+  "lr": 5e-06,
+  "grad_clip": 5.0,
+  "test_sentences": [
+    "\u0928\u092e\u0938\u094d\u0924\u0947, \u092e\u0948\u0902 \u092d\u093e\u0930\u0924\u0940\u092f \u0906\u0935\u093e\u091c\u093c \u092e\u0949\u0921\u0932 \u0939\u0942\u0902\u0964",
+    "This is a test of the fine-tuned model.",
+    "\u0906\u091c \u0915\u093e \u092e\u094c\u0938\u092e \u092c\u0939\u0941\u0924 \u0905\u091a\u094d\u091b\u093e \u0939\u0948\u0964"
+  ],
+  "use_phonemes": false,
+  "text_cleaner": "multilingual_cleaners",
+  "enable_eos_bos_chars": false,
+  "phoneme_language": "hi"
+}

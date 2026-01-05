@@ -1,0 +1,8 @@
+{
+  "name": "Om Puri",
+  "duration": 30.0,
+  "sample_rate": 16000,
+  "speaker_id": "id10901",
+  "source": "VoxCeleb Indian Dataset",
+  "num_samples": 122
+}
