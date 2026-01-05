@@ -63,11 +63,7 @@ This AI Voice Cloning Studio is a powerful tool that leverages state-of-the-art 
 
 **Output:** 
 
-<audio controls src="https://github.com/dhruvinsuthar/AIVoiceClone/raw/main/outputs/ompuri1.mp3">
-  Your browser does not support the audio element.
-</audio>
-
-[Download ompuri1.mp3](outputs/ompuri1.mp3)
+[![Play Audio](https://img.shields.io/badge/▶️_Play_Audio-ompuri1.mp3-blue?style=for-the-badge)](https://github.com/dhruvinsuthar/AIVoiceClone/raw/main/outputs/ompuri1.mp3)
 
 **Metrics:**
 - Duration: ~20 seconds
@@ -86,11 +82,7 @@ This AI Voice Cloning Studio is a powerful tool that leverages state-of-the-art 
 
 **Output:** 
 
-<audio controls src="https://github.com/dhruvinsuthar/AIVoiceClone/raw/main/outputs/ompuri2.mp3">
-  Your browser does not support the audio element.
-</audio>
-
-[Download ompuri2.mp3](outputs/ompuri2.mp3)
+[![Play Audio](https://img.shields.io/badge/▶️_Play_Audio-ompuri2.mp3-blue?style=for-the-badge)](https://github.com/dhruvinsuthar/AIVoiceClone/raw/main/outputs/ompuri2.mp3)
 
 **Metrics:**
 - Duration: ~5 seconds
