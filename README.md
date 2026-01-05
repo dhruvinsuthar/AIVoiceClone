@@ -63,8 +63,7 @@ This AI Voice Cloning Studio is a powerful tool that leverages state-of-the-art 
 
 **Output:** 
 
-<audio controls>
-  <source src="https://github.com/dhruvinsuthar/AIVoiceClone/raw/main/outputs/ompuri1.mp3" type="audio/mpeg">
+<audio controls src="https://github.com/dhruvinsuthar/AIVoiceClone/raw/main/outputs/ompuri1.mp3">
   Your browser does not support the audio element.
 </audio>
 
@@ -87,8 +86,7 @@ This AI Voice Cloning Studio is a powerful tool that leverages state-of-the-art 
 
 **Output:** 
 
-<audio controls>
-  <source src="https://github.com/dhruvinsuthar/AIVoiceClone/raw/main/outputs/ompuri2.mp3" type="audio/mpeg">
+<audio controls src="https://github.com/dhruvinsuthar/AIVoiceClone/raw/main/outputs/ompuri2.mp3">
   Your browser does not support the audio element.
 </audio>
 
